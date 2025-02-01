@@ -1,6 +1,6 @@
 # domator3000
 
-Aplikacja pozwala przyśpieszyć poszukiwanie mieszkania poprzez automatyzacje zapytań na ogłoszenia
+Aplikacja pozwala przyśpieszyć poszukiwanie mieszkania poprzez automatyzacje zapytań na ogłoszenia. W pierwszej kolejności pobieramy wklejamy taki link, wpisujemy ile chcemy pobrać stron. Pobieramy i klikamy przetwórz. Formularz automatycznie się uzupełni i wyślę, na dodatek w pliku wiadomosci.txt możemy dodać własną customową wiadomość. Skrypt wybiera losowo. 
 
 ## Funkcje
 
