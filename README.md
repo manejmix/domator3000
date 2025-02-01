@@ -22,3 +22,7 @@ Aplikacja pozwala przyśpieszyć poszukiwanie mieszkania poprzez automatyzacje z
     wklej link np; https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/warszawa/warszawa/warszawa
     podaj max_pages jakie chcesz przetworzyć
     śmigaj
+## Jałmużna 
+      https://buycoffee.to/manejmix
+
+         
