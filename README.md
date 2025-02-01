@@ -24,7 +24,7 @@ Aplikacja pozwala przyśpieszyć poszukiwanie mieszkania poprzez automatyzacje z
     śmigaj
    ```
 ## Jałmużna 
-      <a href="https://buycoffee.to/manejmix">LINK</
+      <a href="https://buycoffee.to/manejmix">LINK</a>
 
 
          
