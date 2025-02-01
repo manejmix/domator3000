@@ -23,6 +23,6 @@ Aplikacja pozwala przyśpieszyć poszukiwanie mieszkania poprzez automatyzacje z
     podaj max_pages jakie chcesz przetworzyć
     śmigaj
 ## Jałmużna 
-      [https://buycoffee.to/manejmix](https://buycoffee.to/manejmix)
+      [LINK](https://buycoffee.to/manejmix)
 
          
