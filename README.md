@@ -16,13 +16,25 @@ Aplikacja pozwala przyśpieszyć poszukiwanie mieszkania poprzez automatyzacje z
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoj-uzytkownik/otodom-link-processor.git
-   cd otodom-link-processor
+   git clone https://github.com/manejmix/domator3000.git
+   cd domator3000
     python main.py
     wklej link np; https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/warszawa/warszawa/warszawa
     podaj max_pages jakie chcesz przetworzyć
     śmigaj
    ```
+
+
+## Wersja no-selenium
+   ```
+   sudo apt update
+   sudo apt install nodejs npm
+   npm install node-fetch
+   git clone https://github.com/manejmix/domator3000.git
+   node wyslij.js
+   ```
+
+   
 ## Jałmużna
 [LINK](https://buycoffee.to/manejmix)
 
