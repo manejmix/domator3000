@@ -2,7 +2,7 @@ import requests
 
 # Funkcja do pobierania danych i zapisywania ich do pliku
 def fetch_and_save_data(page_start, page_end, filename):
-    url_template = "{}" # zmień na adres url
+    url_template = "{}" # zmień na adres url bo nie będzie działać
     headers = {
         "accept": "*/*",
         "accept-language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",
